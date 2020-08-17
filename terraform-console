@@ -1,1 +1,1 @@
-aws.tf
+region="eu-west-1"
